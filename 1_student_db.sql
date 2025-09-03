@@ -1,6 +1,6 @@
 -- Student Registration Database (student_db.sql)
 -- Author: Donald Ukeh (22/CSC/288)
--- Date: 31-Aug-2025
+-- Date: 01-Sep-2025
 
 CREATE DATABASE IF NOT EXISTS student_db;
 USE student_db;
